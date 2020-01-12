@@ -15,12 +15,12 @@ Output Format:
 Deepti loves cruises. she is going to visit the Carribean on a Cruise. So, she thought of providing everyone who is traveling with her with lunch as well. Each food item is denoted by an integer ID. A lunchbox contains exactly **A** food items. she has a list of food items with her denoted by an integer array **B**. she asked you to tell her the maximum number of lunchboxes she can prepare. <br/>
 **Note:** A lunch box can contain multiple same kinds of food items but the content of each lunch box should be the same.<br/><br/>
 
-**Problem Const:**
-1<=A<=|B|<=10^5
+**Problem Const:**<br/>
+1<=A<=|B|<=10^5<br/>
 1<=B[i]<=10^5
 <br/><br/>
 **Input:**
-First line contain integer A
+First line contain integer A<br/>
 Second line cntain array B
 <br/><br/>
 **Output:**
