@@ -44,8 +44,8 @@ A=4 B=[1,1,3,3,3,3,6,6,10,13]<br/>
 
 **Example explanation:**<br/>
 **Explanation 1:**<br/>
-she can prepare content to be [1,2,3] and prepare 2 lunchboxes.<br/>
+she can prepare content to be [1,2,3] and prepare max 2 lunchboxes.<br/>
 **Explanation 2:**<br/>
-she can choose content to be [1,3,3,3]<br/>
+she can choose content to be [1,3,3,3] and can only prepare 1 lunch box.<br/>
 **Explanation 3:**<br/>
-she can choose content [1,3,3,6] and prepare 2 lunchboxes.<br/>
+she can choose content [1,3,3,6] and prepare max 2 lunchboxes.<br/>
