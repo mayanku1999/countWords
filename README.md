@@ -28,7 +28,7 @@ Return a single integer denoting the maximum number of lunch boxes that can be p
 <br/><br/>
 **Example Input:**<br/>
 **Input 1:**<br/>
-A=4, B=[1,2,3,2,6,1,3]<br/>
+A=3, B=[1,2,3,2,6,1,3]<br/>
 **Input 2:**<br/>
 A=4, B=[1,3,1,3,10,3,6,6,13]<br/>
 **Input 3:**<br/>
